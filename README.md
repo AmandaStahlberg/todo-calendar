@@ -16,4 +16,4 @@ Jonas Glingert
 Amanda Ståhlberg  
 Josefin Enerlöv  
 
-[Demo](https://glingmedia.github.io/todo/)
+[Demo](https://amandastahlberg.github.io/todo-calendar/)
